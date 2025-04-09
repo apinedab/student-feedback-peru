@@ -21,7 +21,7 @@ Use Cases
 Citation
 If you use this dataset, please cite the associated article as follows:
 
-A. Pineda-Briseño and J. Oblitas Cruz, "Student Feedback Comments from Peruvian Universities (2019)", 2025.
+A. Pineda-Briseño and J. Oblitas Cruz, Student Feedback Comments from Peruvian Universities (2019), GitHub repository, 2025. [Online]. Available: https://github.com/apinedab/student-feedback-peru
 
 License
 This dataset is provided for non-commercial academic research purposes only. Redistribution or commercial use is not permitted without written permission from the authors.
