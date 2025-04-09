@@ -21,7 +21,7 @@ Use Cases
 Citation
 If you use this dataset, please cite the associated article as follows:
 
-A. Pineda-Briseño, J. Oblitas Cruz, L. Cleofas Sánchez, and W. Sánchez, "Student Feedback Comments from Peruvian Universities (2019)" IEEE DataPort, 2025.
+A. Pineda-Briseño and J. Oblitas Cruz, "Student Feedback Comments from Peruvian Universities (2019)" IEEE DataPort, 2025.
 
 License
 This dataset is provided for non-commercial academic research purposes only. Redistribution or commercial use is not permitted without written permission from the authors.
